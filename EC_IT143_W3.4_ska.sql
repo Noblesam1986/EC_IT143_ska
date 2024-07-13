@@ -1,5 +1,5 @@
 /*****************************************************************************************************************
-NAME:    Creating and Answering Questions with SQL Server Management Studio
+NAME:    Creating and Answering Questions in SQL Server Management Studio
 PURPOSE: Answer questions on AdventureWorks2022 Database
 
 MODIFICATION LOG:
