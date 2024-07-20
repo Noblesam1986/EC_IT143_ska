@@ -3,9 +3,9 @@ NAME:    ASSIGNMENT 2 - Begin creating an answer
 PURPOSE: Hello World - Load user stored procedure
 
 MODIFICATION LOG:
-Ver      Date        Author        Description
------   ----------   -----------   -------------------------------------------------------------------------------
-1.0     05/23/2022   JJAUSSI       1. Built this script for EC IT440
+Ver      Date        Author                    Description
+-----   ----------   -----------               ----------------------------------------------------------------
+1.0     07/12/2024   SAMUEL KOFI AMISSAH       1. EC_IT143_W4.2
 
 
 RUNTIME: 
