@@ -1,3 +1,6 @@
+-- Write an SQL select statement to calculate the average required course GPA in each school year for each student who is qualified for the Dean’s List (GPA ≥ 3.5) in each year
+-- Using the gpa_history-1 database
+
 
 -- SELECTING THE COLUMS OF THE TABLE
 
